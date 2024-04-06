@@ -1,0 +1,52 @@
+<quiz>
+    <question>
+        <text>What is a port?</text>
+        <answers>
+            <answer correct="true">A. a virtual point where network connections start and end.</answer>
+            <answer>B. a socket</answer>
+            <answer>C. a pipe</answer>
+            <answer>D. a compiler</answer>
+        </answers>
+    </question>
+    
+    <question>
+        <text>What is a thread? </text>
+        <answers>
+            <answer>A. a movie</answer>
+            <answer correct="true">B. a separate execution path</answer>
+            <answer>C. I don't know</answer>
+            <answer>D. a port</answer>
+        </answers>
+    </question>
+
+    <question>
+        <text>Do you like this subject? </text>
+        <answers>
+            <answer>A. No</answer>
+            <answer correct="true">B. Yes</answer>
+            <answer>C. I don't know what to say.</answer>
+            <answer>D. Mixed feelings.</answer>
+        </answers>
+    </question>
+    
+    <question>
+        <text>What is TCP? </text>
+        <answers>
+            <answer>A. a company</answer>
+            <answer correct="true">B. a protocol</answer>
+            <answer>C. something to eat</answer>
+            <answer>D. UDP</answer>
+        </answers>
+    </question>
+    
+    <question>
+        <text>Why would you use select()?</text>
+        <answers>
+            <answer>A. to watch Netflix</answer>
+            <answer>B. for no reason</answer>
+            <answer>C. to create a socket</answer>
+            <answer correct="true">D. to wait for data in n seconds.</answer>
+        </answers>
+    </question>
+
+</quiz>
